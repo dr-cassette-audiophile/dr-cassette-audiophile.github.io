@@ -498,6 +498,17 @@ mark,
   }
 }
 
+@media (pointer:none), (pointer:coarse) {
+  .img-thumbnail {
+    padding: 0.25rem;
+    background-color: #fff;
+    border: 1px solid #dee2e6;
+    border-radius: 0.25rem;
+    height: 60px;
+    object-fit: cover
+  }
+}
+
 @media screen and (min-width: 800px) {
   .img-thumbnail {
     padding: 0.25rem;
