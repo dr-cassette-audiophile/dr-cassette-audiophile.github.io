@@ -493,7 +493,7 @@ mark,
     background-color: #fff;
     border: 1px solid #dee2e6;
     border-radius: 0.25rem;
-    height: 6rem;
+    height: 60px;
     object-fit: cover
   }
 }
